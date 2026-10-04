@@ -1,5 +1,5 @@
-# honojs/hono's .github/workflows/ci.yml: main (no matrix; Node from .tool-versions, ubuntu-latest), for the Superaction scoreboard.
-name: Superaction (GitHub)
+# honojs/hono's .github/workflows/ci.yml: main (no matrix; Node from .tool-versions, ubuntu-latest), for the SuperCI scoreboard.
+name: SuperCI (GitHub)
 
 on:
   workflow_dispatch: {}
